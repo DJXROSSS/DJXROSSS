@@ -2,7 +2,9 @@
 - 👀 I’m interested in ... All things tech. from IOT to comepetitive coding to project building.
 - 🌱 I’m currently learning ... Java, C++, Kotlin, Android dev, MERN Stack.
 - 💞️ I’m currently working on personal projects but looking forward to collaborate in future.
-- 📫 How to reach me ... insta: https://www.instagram.com/djxrossmusic 
+- 📫 How to reach me ... instagram: https://www.instagram.com/djxrossmusic
+-                         discord: xross002
+-                         Linkden: https://www.linkedin.com/in/jatin-kumar-461a56289/
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... "You can't stand backwards on stairs"
 
